@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/marker_addresstv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLength="15"
+        android:textSize="15dp"
+        android:textColor="@color/color_000000"
+        tools:text="北京市.天安门"/>
+    <ImageView
+        android:id="@+id/marker_img"
+        android:layout_marginTop="8dp"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:src="@mipmap/app_maplocation"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WJCMap</string>
+    <!--途径点提示文本-->
+    <string name="through_title_hint">途径点</string>
+</resources>

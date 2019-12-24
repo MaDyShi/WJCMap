@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_ffffff">#FFFFFF</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_hinttesxt">#8d8a8a</color>
+    <color name="color_line">#6ebcf7</color>
+    <color name="color_button">#2d9df1</color>
+
+    <color name="theme_bg_color">#F4F5F7</color><!--背景颜色-->
+</resources>
